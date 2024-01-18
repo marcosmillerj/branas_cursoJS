@@ -40,7 +40,7 @@ console.log((conta_net).toPrecision(4));
 
 console.log("O valor da conta de água e luz é: " + (conta_agua + conta_luz));
 
-console.log((4 | 3).toString(2).padStart(32, 'x'));
+console.log((4 | 3).toString(2).padStart(32, '0'));
 /*
 No contexto específico da expressão que você mencionou: (4 | 3).toString(2).padStart(32, '0'):
 
