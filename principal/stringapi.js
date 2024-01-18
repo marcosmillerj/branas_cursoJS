@@ -13,3 +13,5 @@ console.log(String.fromCharCode(12281));
 console.log("Casa da mãe Joana".includes("da"));
 console.log("charadinha".startsWith("h"));
 console.log("caminhonete".endsWith("ete"));
+
+//testzin
