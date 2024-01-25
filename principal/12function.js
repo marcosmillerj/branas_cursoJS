@@ -33,6 +33,10 @@ console.log("**********");
 console.log("**********");
 console.log("**********");
 
+
+
+
+
 const rectangle = {
     x: 10,
     y: 2,
@@ -41,4 +45,4 @@ const rectangle = {
     }
 }
 
-console.log(rectangle.area);
+console.log(rectangle.area); 
